@@ -2,7 +2,6 @@
 
 Passionate Computer Science student at the University of Toronto, specializing in Software Development. Interned at SOTI Inc. and Markitech, contributing to critical projects and enhancing my skills in full-stack development.
 
-
 ## Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -20,8 +19,33 @@ Passionate Computer Science student at the University of Toronto, specializing i
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Linux/Unix](https://img.shields.io/badge/Linux-003366?style=flat-square&logo=linux&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Angular.js](https://img.shields.io/badge/Angular.js-E23237?style=flat-square&logo=angularjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-5382A1?style=flat-square&logo=java&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-## 📫 Let's Connect
-LinkedIn: [LinkedIn](https://linkedin.com/in/usmantahir7)
+## Concepts
+- Cloud Computing: ![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+- SDLC: ![SDLC](https://img.shields.io/badge/SDLC-6DB33F?style=flat-square&logo=git&logoColor=white)
+- DevOps: ![DevOps](https://img.shields.io/badge/DevOps-007AC1?style=flat-square&logo=azure-devops&logoColor=white)
+- REST API: ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=rest-api&logoColor=white)
+- OOP: ![OOP](https://img.shields.io/badge/OOP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+- Database: ![Database](https://img.shields.io/badge/Database-336791?style=flat-square&logo=database&logoColor=white)
+- Cyber Security: ![Cyber Security](https://img.shields.io/badge/Cyber_Security-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+- Software Testing: ![Software Testing](https://img.shields.io/badge/Software_Testing-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+- Agile/Scrum: ![Agile/Scrum](https://img.shields.io/badge/Agile_Scrum-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+
+## 📚 Education
+**University of Toronto | Sep 2021 – Apr 2025**
+- Honours Bachelor of Science, Computer Science
+- CGPA: 3.7/4.0
+- Relevant Courses: Software Development, Data Structures & Algorithms, Operating Systems, Machine Learning, and more.
+
+## 🌐 Let's Connect
+- LinkedIn: [LinkedIn](https://linkedin.com/in/usmantahir7)
 
 Feel free to explore my repositories and provide feedback. Let's collaborate and build something amazing together! 🚀
