@@ -2,7 +2,7 @@
 
 Passionate Computer Science student at the University of Toronto, specializing in Software Development. Interned at SOTI Inc. and Markitech, contributing to critical projects and enhancing my skills in full-stack development.
 
-## 🤖 Tech Stack
+## 💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
